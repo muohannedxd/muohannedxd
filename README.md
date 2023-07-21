@@ -1,6 +1,6 @@
 <img src="Github_banner.png">
 
-<h3 align="center">A passionate Artificial Intelligence major with a keen interest in cybersecurity and a solid knowledge in web development</h3>
+<h4 align="left">A passionate Artificial Intelligence major with a keen interest in cybersecurity and a solid knowledge in web development</h4>
 
 - 🌱 I’m currently learning **about Data science & cybersecurity**
 
