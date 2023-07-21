@@ -8,8 +8,6 @@
 
 - ⚡ Fun fact **I hate losing :)**
 
-<h3 align="left">Connect with me:</h3>
-
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
 
 <p align="left">
