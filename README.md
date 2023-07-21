@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about Data science & cybersecurity**
 
-- 📫 How to reach me **mohannedx1105@gmail.com**
+- 📫 How to reach me: **mohannedx1105@gmail.com**
 
 - ⚡ Fun fact **I hate losing :)**
 
