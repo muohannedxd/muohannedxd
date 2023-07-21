@@ -10,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/muohannedxd/muohannedxd/assets/108835959/22f37137-4d46-4e7e-8137-ddfd46dc1f0b)">
-"
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
 
 <p align="left">
 <a href="https://linkedin.com/in/mohanned kadache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanned kadache" height="30" width="40" /></a>
