@@ -1,3 +1,4 @@
+<img src="Github_banner.png">
 <h1 align="center">Hi, I'm Mohanned Kadache</h1>
 <h3 align="center">A passionate Artificial Intelligence major with a keen interest in cybersecurity and a solid knowledge in web development</h3>
 
