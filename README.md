@@ -1,5 +1,7 @@
 <img src="Github_banner.png">
 
+<img align="right" src="https://github.com/muohannedxd/muohannedxd/assets/108835959/f2120fbc-d8fb-4737-b5ad-12928888944f" width="400">
+
 <h4 align="left">A passionate Artificial Intelligence major with a keen interest in cybersecurity and a solid knowledge in web development</h4>
 
 - 🌱 I’m currently learning **about Data science & cybersecurity**
