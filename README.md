@@ -1,5 +1,7 @@
 <img src="Github_banner.png">
 
+<img align="right" width="400" alt="coding" src="https://github.com/muohannedxd/muohannedxd/assets/108835959/9a14efb7-9427-44de-9127-488cc1cf622e">
+
 <h4 align="left">A passionate Artificial Intelligence major with a keen interest in cybersecurity and a solid knowledge in web development</h4>
 
 - 🌱 I’m currently learning **about Data science & cybersecurity**
@@ -7,8 +9,6 @@
 - 📫 How to reach me: **mohannedx1105@gmail.com**
 
 - ⚡ Fun fact **I hate losing :)**
-
-<img align="right" width="400" alt="coding" src="https://github.com/muohannedxd/muohannedxd/assets/108835959/9a14efb7-9427-44de-9127-488cc1cf622e">
 
 
 <p align="left">
