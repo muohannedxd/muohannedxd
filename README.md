@@ -8,7 +8,8 @@
 
 - ⚡ Fun fact **I hate losing :)**
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
+<img align="right" width="400" alt="coding" src="![image](https://github.com/muohannedxd/muohannedxd/assets/108835959/9a14efb7-9427-44de-9127-488cc1cf622e)">
+
 
 <p align="left">
 <a href="https://linkedin.com/in/mohanned kadache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanned kadache" height="30" width="40" /></a>
