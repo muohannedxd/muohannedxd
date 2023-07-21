@@ -9,6 +9,10 @@
 - ⚡ Fun fact **I hate losing :)**
 
 <h3 align="left">Connect with me:</h3>
+
+<img align="right" alt="coding" width="400" src="![image](https://github.com/muohannedxd/muohannedxd/assets/108835959/22f37137-4d46-4e7e-8137-ddfd46dc1f0b)">
+"
+
 <p align="left">
 <a href="https://linkedin.com/in/mohanned kadache" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanned kadache" height="30" width="40" /></a>
 <a href="https://kaggle.com/muohannedxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muohannedxd" height="30" width="40" /></a>
