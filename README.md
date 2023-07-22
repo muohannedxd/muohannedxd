@@ -4,11 +4,12 @@
 
 <img align="right" src="https://github.com/muohannedxd/muohannedxd/assets/108835959/f2120fbc-d8fb-4737-b5ad-12928888944f" width="400" hight="400">
 
-- 🌱 I’m currently learning **about Data science & cybersecurity**
+
+- 🌱 I’m currently learning more about **Data science & cybersecurity**
 
 - 📫 How to reach me: **mohannedx1105@gmail.com**
 
-- ⚡ Fun fact **I hate losing :)**
+- ⚡ Fun fact: **I hate losing :)**
 
 
 <p align="left">
