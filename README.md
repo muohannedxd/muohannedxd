@@ -2,7 +2,7 @@
 
 <h3 align="left">A passionate Artificial Intelligence major with a keen interest in cybersecurity and a solid knowledge in web development</h3>
 
-<iframe align="right" src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="440" height="440" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>
+<img align="right" src="https://i.pinimg.com/originals/25/c3/b7/25c3b7e056ec7bd21dbd69fd93879aa7.gif" width="400" hight="400">
 
 
 - 🌱 I’m currently learning more about **Data science & cybersecurity**
