@@ -5,11 +5,11 @@
 <img align="right" src="https://i.pinimg.com/originals/9e/9d/83/9e9d8327f22a3e567684fc94405b7def.gif" width="400" hight="400">
 
 
-- 🌱 I’m currently learning more about **Data science & cybersecurity**
+- 🌱 I’m currently learning more about **Data Science, Artificial Intelligence and Cybersecurity**
 
-- 📫 How to reach me: **mohannedx1105@gmail.com**
+- 📫 How to reach me: **mohannedx1105@gmail.com** or use social links below
 
-- ⚡ Fun fact: **I hate losing :)**
+- ⚡ Fun fact about me: **I hate losing :)**
 
 
 <p align="left">
