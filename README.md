@@ -1,6 +1,6 @@
 <img src="Github_banner.png">
 
-<h3 align="center" style="padding-bottom: 16px">Control can sometimes be an illusion...</h3>
+<h3 align="center" style="padding-bottom: 16">Control can sometimes be an illusion...</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/9e/9d/83/9e9d8327f22a3e567684fc94405b7def.gif" width="400" hight="400">
 
