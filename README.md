@@ -2,8 +2,7 @@
 
 <h3 align="left">A passionate Artificial Intelligence major with a keen interest in cybersecurity and a solid knowledge in web development</h3>
 
-<img align="right" src="https://github.com/muohannedxd/muohannedxd/assets/108835959/f2120fbc-d8fb-4737-b5ad-12928888944f" width="400" hight="400">
-
+<iframe align="right" src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="400" height="400" frameBorder="0" allowFullScreen></iframe>
 
 - 🌱 I’m currently learning more about **Data science & cybersecurity**
 
