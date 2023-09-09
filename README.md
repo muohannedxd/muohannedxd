@@ -1,13 +1,16 @@
 <img src="Github_banner.png">
 
-<h3 align="left">A passionate Artificial Intelligence major with a keen interest in cybersecurity and a solid knowledge in web development</h3>
+<h3 align="center" style="padding-bottom: 16px">Control can sometimes be an illusion...</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/9e/9d/83/9e9d8327f22a3e567684fc94405b7def.gif" width="400" hight="400">
 
+- I am a passionate **AI and Data Science** major with a keen interest in Cybersecurity.
 
-- 🌱 I’m currently learning more about **Data Science, Artificial Intelligence and Cybersecurity**
+- **</> MERN** Stack Developer.
 
-- 📫 How to reach me: **mohannedx1105@gmail.com** or use social links below
+- 🌱 I am currently learning more about **Data Science, Artificial Intelligence and Cybersecurity**
+
+- 📫 Reach out to me: **mohannedx1105@gmail.com** or use the social links below
 
 - ⚡ Fun fact about me: **I hate losing :)**
 
