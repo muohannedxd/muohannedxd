@@ -8,11 +8,11 @@
 
 - **</> MERN** Stack Developer.
 
-- 🌱 I am currently learning more about **Data Science, Artificial Intelligence and Cybersecurity**
-
-- 📫 Reach out to me: **mohannedx1105@gmail.com** or use the social links below
+- 🌱 I am currently learning more about **Data Science, Artificial Intelligence and Cybersecurity**.
 
 - ⚡ Fun fact about me: **I hate losing :)**
+
+- 📫 Reach out to me: **mohannedx1105@gmail.com** or use the social links below:
 
 
 <p align="left">
