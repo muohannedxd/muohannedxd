@@ -2,9 +2,9 @@
 
 <h3 align="center">Control can sometimes be an illusion...</h3><br>
 
-<img align="right" margin-left="10" src="https://i.pinimg.com/originals/9e/9d/83/9e9d8327f22a3e567684fc94405b7def.gif" width="350" hight="350">
+<img align="right" style="margin-left:10" src="https://i.pinimg.com/originals/9e/9d/83/9e9d8327f22a3e567684fc94405b7def.gif" width="350" hight="350">
 
-- I am a passionate **AI and Data Science** major with a keen interest in Cybersecurity.
+- 👓 I am a passionate **AI and Data Science** major with a keen interest in Cybersecurity.
 
 - **</> MERN** Stack Developer.
 
