@@ -6,7 +6,7 @@
 
 - 👓 I am a passionate **AI and Data Science** major with a keen interest in Cybersecurity.
 
-- **</> MERN** Stack Developer.
+- **</> Software** Developer.
 
 - 🌱 I am currently learning more about **Data Science, Artificial Intelligence and Cybersecurity**.
 
