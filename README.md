@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohanned-kadache-a11ab8246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanned kadache" height="30" width="40" /></a>
 <a href="https://kaggle.com/muohannedxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muohannedxd" height="30" width="40" /></a>
-<a href="https://www.facebook.com/muohannedx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muohanned kadache" height="30" width="40" /></a>
 <a href="https://instagram.com/muohanned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muohanned" height="30" width="40" /></a>
 </p>
 
