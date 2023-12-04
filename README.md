@@ -1,4 +1,3 @@
-
 <img src="Github_banner.png">
 
 <h3 align="center">Control can sometimes be an illusion...</h3><br>
@@ -9,9 +8,9 @@
 
 - **</> Software** Developer.<br>
 
-- 🍀 I am currently learning more about Artificial Intelligence in general, and always open to **new opportunities**.<br>
+- I am currently learning more about Artificial Intelligence in general, and always open to **new opportunities**.<br>
 
-- ⚡ Fun fact about me: I hate **losing**.
+- 🍀 Fun fact about me: I hate **losing**.
 
 - 📫 Reach out to me: **mohannedx1105@gmail.com** or use the social links below:
 
@@ -23,7 +22,7 @@
 <a href="https://instagram.com/muohanned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muohanned" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Tech Stack
 
 <p align="left"> 
 
@@ -64,3 +63,17 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=muohannedxd&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muohannedxd&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muohannedxd&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=muohannedxd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
