@@ -1,8 +1,6 @@
-<img src="Github_banner.png">
-
 <img align="right" alt="coding" style="margin-left:10" src="https://i.pinimg.com/originals/9e/9d/83/9e9d8327f22a3e567684fc94405b7def.gif" width="350" hight="350">
 
-- 👓 I am an **AI** and **Data Science major** with a keen interest in **IoT**.<br>
+- 👓 THis is **Mohanned Kadache**, an **AI** and **Data Science major** with a keen interest in **IoT**.<br>
 
 - **</> Software** Developer.<br>
 
