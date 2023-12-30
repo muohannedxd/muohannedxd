@@ -1,4 +1,4 @@
-<img src="Github_banner.png">
+repo<img src="Github_banner.png">
 
 - 👓 An **AI** and **Data Science** major with a keen interest in **IoT**.<br>
 
@@ -67,6 +67,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muohannedxd&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## Top Contributed Repo
+## Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
