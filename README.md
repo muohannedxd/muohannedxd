@@ -1,4 +1,4 @@
-repo<img src="Github_banner.png">
+<img src="Github_banner.png">
 
 - 👓 An **AI** and **Data Science** major with a keen interest in **IoT**.<br>
 
