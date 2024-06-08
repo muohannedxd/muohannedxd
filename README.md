@@ -8,7 +8,7 @@
 
 - 🍀 Fun fact about me: I hate **losing**.
 
-- 📫 Reach out to me: **mohannedx1105@gmail.com** or use the social links below:
+- 📫 Reach out to me: **mohanned.kadache@proton.me** or use the social links below:
 
 
 <p align="left">
