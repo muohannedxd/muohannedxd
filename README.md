@@ -69,7 +69,7 @@ Reach out to me: **mohanned.kadache@proton.me** or use these social links:
   <img src="https://streak-stats.demolab.com?user=muohannedxd&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muohannedxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2&custom_title=i%20mostly%20use" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muohannedxd&radius=16&theme=redical&area=true&order=5&custom_title=contribution%20graph&hide_border=true&title_color=FF4C80" height="386" alt="activity-graph graph" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&custom_title=contribution_repos&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="contributed repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&custom_title=contribution%20repos&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="contributed repos" />
 </div>
 
 ###
