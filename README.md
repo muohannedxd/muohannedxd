@@ -16,7 +16,7 @@ Reach out to me: **mohanned.kadache@proton.me** or use these social links:
 <a href="https://instagram.com/muohanned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muohanned" height="30" width="40" /></a>
 </p>
 
-## Tech Stack
+### Tech Stack
 
 <p align="left"> 
 
@@ -63,7 +63,7 @@ Reach out to me: **mohanned.kadache@proton.me** or use these social links:
 </p>
 
 
-## Some Statistics
+### Some Statistics
 <div align="left">
 
   <img src="https://github-readme-stats.vercel.app/api?username=muohannedxd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1&custom_title=statistics" height="150" alt="stats graph" />
