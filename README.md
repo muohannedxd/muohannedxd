@@ -1,18 +1,17 @@
 <img src="Github_banner.png">
 
-- 👓 An **AI** and **Data Science** major with a keen interest in **IoT**.<br>
+**AI** and **Data Science** major at the **National Higher School of Artificial Intelligence (ENSIA)**.<br>
 
-- **</> Software** Developer.<br>
+**</> Software** Developer.<br>
 
-- I am currently learning more about Artificial Intelligence in general, and always open to **new opportunities**.<br>
+I am currently learning more about Artificial Intelligence in general, and always open to **new opportunities**.<br>
 
-- 🍀 Fun fact about me: I hate **losing**.
+Fun fact about me: I hate **losing :)**.
 
-- 📫 Reach out to me: **mohanned.kadache@proton.me** or use the social links below:
-
+Reach out to me: **mohanned.kadache@proton.me** or use these social links:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohanned-kadache-a11ab8246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanned kadache" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohanned-kadache-a11ab8246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="mohanned kadache" height="40" width="40" /></a>
 <a href="https://kaggle.com/muohannedxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muohannedxd" height="30" width="40" /></a>
 <a href="https://instagram.com/muohanned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muohanned" height="30" width="40" /></a>
 </p>
@@ -64,12 +63,14 @@
 </p>
 
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=muohannedxd&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muohannedxd&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muohannedxd&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Some Statistics
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=muohannedxd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=statistics" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=muohannedxd&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muohannedxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2&custom_title=i%20mostly%20use" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muohannedxd&radius=16&theme=redical&area=true&order=5&custom_title=contribution%20graph&hide_border=true&title_color=FF4C80" height="386" alt="activity-graph graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&custom_title=contribution repos&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="contributed repos" />
+</div>
 
-
-## Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+###
 
