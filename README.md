@@ -8,7 +8,7 @@ I am currently learning more about Artificial Intelligence in general, and alway
 
 Fun fact about me: I hate **losing :)**.
 
-Reach out to me: **mohanned.kadache@proton.me** or use these social links:
+Reach out to me: **mohanned.kadache@gmail.com** or use these social links:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohanned-kadache-a11ab8246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="mohanned kadache" height="40" width="40" /></a>
