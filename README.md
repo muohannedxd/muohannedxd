@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muohannedxd&locale=en&hide_title=false&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&order=2&custom_title=I%20mostly%20use" width="360" alt="Languages Graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muohannedxd&locale=en&hide_title=false&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&order=2&custom_title=I%20mostly%20use&hide=jupyter%20notebook" width="360" alt="Languages Graph" />
     </td>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
       <img src="https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&custom_title=Contribution%20Repos&theme=material-palenight&combine_all_yearly_contributions=true&hide_border=true" width="360" alt="Contributed Repos" />
