@@ -12,6 +12,8 @@
 
 * Reach out to me: **mohanned.kadache@gmail.com** or use these social links:
 
+* [![GitHub Streak](https://streak-stats.demolab.com?user=muohannedxd&theme=material-palenight)](https://git.io/streak-stats)
+
 ### Social Links
 
 <p align="left">
@@ -69,7 +71,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=muohannedxd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1&custom_title=Statistics" width="360" alt="Stats Graph" />
     </td>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&custom_title=Contribution%20Repos&theme=material-palenight&combine_all_yearly_contributions=true&hide_border=true" width="360" alt="Contributed Repos" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muohannedxd&locale=en&hide_title=false&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&order=2&custom_title=I%20mostly%20use&hide=jupyter%20notebook" width="360" alt="Languages Graph" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=muohannedxd&radius=16&theme=material-palenight&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" width="740" alt="Activity Graph" />
     </td>
   </tr>
 </table>
