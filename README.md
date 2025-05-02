@@ -63,15 +63,13 @@
 
 ### Some Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muohannedxd&theme=dark)](https://git.io/streak-stats)
-
 <table align="center" style="border-collapse: collapse; border: 1px solid #A1CDF2;">
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
       <img src="https://github-readme-stats.vercel.app/api?username=muohannedxd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1&custom_title=Statistics" width="360" alt="Stats Graph" />
     </td>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://streak-stats.demolab.com?user=muohannedxd&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5&order=3" width="360" alt="Streak Graph" />
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muohannedxd&theme=material-palenight" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
