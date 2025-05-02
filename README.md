@@ -63,7 +63,7 @@
 
 ### Some Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muohannedxd&theme=dark)](https://git.io/streak-stats)
 
 <table align="center" style="border-collapse: collapse; border: 1px solid #A1CDF2;">
   <tr>
