@@ -69,7 +69,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=muohannedxd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1&custom_title=Statistics" width="360" alt="Stats Graph" />
     </td>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muohannedxd&theme=material-palenight&hide_border=true" width="360" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muohannedxd&theme=material-palenight&hide_border=true" width="340" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
