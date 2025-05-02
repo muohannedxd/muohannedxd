@@ -12,6 +12,8 @@
 
 * Reach out to me: **mohanned.kadache@gmail.com** or use these social links:
 
+* [![GitHub Streak](https://streak-stats.demolab.com?user=muohannedxd&theme=material-palenight)](https://git.io/streak-stats)
+
 ### Social Links
 
 <p align="left">
