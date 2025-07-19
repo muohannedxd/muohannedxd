@@ -24,10 +24,10 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,opencv,pytorch,sklearn,selenium,tensorflow)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,bun,css,dart,django,docker,electron,express,fastapi,firebase,flask,flutter,graphql,html,java,js,ts,kafka,materialui,mongodb,mysql,nextjs,nodejs,redux,spring,supabase,tailwind,vite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,bash,py,r,c,cpp,git,github,npm,pnpm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord,discordjs,latex,md,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,opencv,pytorch,sklearn,selenium,tensorflow,py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,flask,django,spring,flutter,electron,bun,redux,mysql,mongodb,firebase,supabase,graphql,vite,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kafka,git,github,linux;arch,ubuntu,c,cpp,java,dart,npm,pnpm,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,md,notion,discord,discordjs)](https://skillicons.dev)
 
 </p>
 
