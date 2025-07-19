@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,opencv,pytorch,sklearn,selenium,tensorflow,py,r)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,flask,django,spring,flutter,electron,bun,redux,mysql,mongodb,firebase,supabase,graphql,vite,materialui)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,kafka,git,github,linux;arch,ubuntu,c,cpp,java,dart,npm,pnpm,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kafka,git,github,linux,arch,ubuntu,c,cpp,java,dart,npm,pnpm,bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=latex,md,notion,discord,discordjs)](https://skillicons.dev)
 
 </p>
