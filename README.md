@@ -43,11 +43,6 @@
       <img src="https://github-contributor-stats.vercel.app/api?username=muohannedxd&limit=5&custom_title=Contribution%20Repos&theme=material-palenight&combine_all_yearly_contributions=true&hide_border=true" width="360" alt="Contributed Repos" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=muohannedxd&radius=16&theme=material-palenight&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" width="740" alt="Activity Graph" />
-    </td>
-  </tr>
 </table>
 
   
