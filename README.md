@@ -3,13 +3,6 @@
 ### Some Me
 
 * **AI** and **Data Science** major at the **National Higher School of Artificial Intelligence (ENSIA)**.<br>
-
-* **</> Software** Developer.<br>
-
-* I am currently learning more about Artificial Intelligence in general, and always open to **new opportunities**.<br>
-
-* Fun fact about me: I hate **losing :)**.
-
 * Reach out to me: **mohanned.kadache@gmail.com** or use these social links:
 
 ### Extra Links
