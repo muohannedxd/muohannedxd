@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohanned-kadache-a11ab8246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="mohanned kadache" height="32" width="32" /></a>
 <a href="https://kaggle.com/muohannedxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muohannedxd" height="32" width="32" /></a>
-<a href="https://instagram.com/muohanned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muohanned" height="32" width="32" /></a>
 </p>
 
 ### Tech Stack
@@ -18,8 +17,8 @@
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,opencv,pytorch,sklearn,selenium,tensorflow,py,r)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,flask,django,spring,flutter,electron,bun,redux,mysql,mongodb,firebase,supabase,graphql,vite,materialui)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,kafka,git,github,linux,arch,ubuntu,c,cpp,java,dart,npm,pnpm,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,flask,spring,flutter,redux,mysql,mongodb,firebase,supabase,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kafka,git,github,linux,c,cpp,java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=latex,md,notion,discord,discordjs)](https://skillicons.dev)
 
 </p>
