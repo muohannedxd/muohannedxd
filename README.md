@@ -30,8 +30,6 @@
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
       <img src="https://github-readme-stats.vercel.app/api?username=muohannedxd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1&custom_title=Statistics" width="360" alt="Stats Graph" />
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muohannedxd&locale=en&hide_title=false&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&order=2&custom_title=I%20mostly%20use&hide=jupyter%20notebook" width="360" alt="Languages Graph" />
     </td>
