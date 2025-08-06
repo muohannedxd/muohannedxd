@@ -17,7 +17,7 @@
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,opencv,pytorch,sklearn,selenium,tensorflow,py,r)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,flask,spring,flutter,redux,mysql,mongodb,firebase,supabase,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,nodejs,express,fastapi,flask,spring,flutter,redux,mysql,mongodb,firebase,supabase,graphql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,kafka,git,github,linux,c,cpp,java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=latex,md,notion,discord,discordjs)](https://skillicons.dev)
 
