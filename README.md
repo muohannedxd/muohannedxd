@@ -2,7 +2,7 @@
 
 ### Some Me
 
-* **AI** and **Data Science** major at the **National Higher School of Artificial Intelligence (ENSIA)**.<br>
+* **AI** and **Data Science** major at the **National School of Artificial Intelligence (ENSIA)**.<br>
 * Reach out to me: **mohanned.kadache@gmail.com** or use these social links:
 
 ### Extra Links
